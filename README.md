@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amehdi (Mehdi Aliakbari in fact 😊)
-- 👀 I’m interested in CQRS, Event Sourcing, DDD, Docker, Blockchain
-- 🌱 I’m currently learning .net core
+- 👋 Hi, I’m a mehdi!
+- 👀 I’m (now) interested in angular, typescript and micro-frontend
+- 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: aa.mehdi[at]gmail.com
   
